@@ -1,0 +1,1 @@
+PCB is double sided, though hole plated

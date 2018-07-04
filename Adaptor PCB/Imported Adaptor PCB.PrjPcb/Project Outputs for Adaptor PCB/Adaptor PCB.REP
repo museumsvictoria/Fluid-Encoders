@@ -1,0 +1,306 @@
+*************************************************************
+FileName = Adaptor PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top
+      File : Adaptor PCB_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom
+      File : Adaptor PCB_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Adaptor PCB_Pads_Bot.gbr
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Adaptor PCB_Pads_Top.gbr
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Adaptor PCB_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Adaptor PCB_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Adaptor PCB_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Adaptor PCB_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Adaptor PCB_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Adaptor PCB_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Adaptor PCB_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Dimension
+      File : Adaptor PCB_Mechanical_1.gbr
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : tKeepout
+      File : Adaptor PCB_Mechanical_30.gbr
+
+    Adding Layer      : tKeepout
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : bKeepout
+      File : Adaptor PCB_Mechanical_31.gbr
+
+    Adding Layer      : bKeepout
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Assembly Top
+      File : Adaptor PCB_Mechanical_8.gbr
+
+    Adding Layer      : Assembly Top
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Adaptor PCB_Mechanical_22.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Adaptor PCB_Mechanical_23.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Assembly Text Top
+      File : Adaptor PCB_Mechanical_6.gbr
+
+    Adding Layer      : Assembly Text Top
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Adaptor PCB_Profile.gbr
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Adaptor PCB_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Adaptor PCB_PTH_Drill.gbr
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Adaptor PCB_Drawing_1.gbr
+
+    Adding Drill Pair : Bottom-Top
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Adaptor PCB_Drillmap_1.gbr
+
+    Adding Drill Pair : Bottom-Top
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D35
+*************************************************************
+

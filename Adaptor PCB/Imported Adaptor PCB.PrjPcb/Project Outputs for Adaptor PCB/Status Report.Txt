@@ -1,0 +1,35 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Adaptor PCB.PrjPcb]
+   Generated File[Adaptor PCB_Copper_Signal_Top.gbr]
+   Generated File[Adaptor PCB_Copper_Signal_Bot.gbr]
+   Generated File[Adaptor PCB_Pads_Bot.gbr]
+   Generated File[Adaptor PCB_Pads_Top.gbr]
+   Generated File[Adaptor PCB_Legend_Top.gbr]
+   Generated File[Adaptor PCB_Paste_Top.gbr]
+   Generated File[Adaptor PCB_Soldermask_Top.gbr]
+   Generated File[Adaptor PCB_Legend_Bot.gbr]
+   Generated File[Adaptor PCB_Soldermask_Bot.gbr]
+   Generated File[Adaptor PCB_Paste_Bot.gbr]
+   Generated File[Adaptor PCB_Keep-out.gbr]
+   Generated File[Adaptor PCB_Mechanical_1.gbr]
+   Generated File[Adaptor PCB_Mechanical_30.gbr]
+   Generated File[Adaptor PCB_Mechanical_31.gbr]
+   Generated File[Adaptor PCB_Mechanical_8.gbr]
+   Generated File[Adaptor PCB_Mechanical_22.gbr]
+   Generated File[Adaptor PCB_Mechanical_23.gbr]
+   Generated File[Adaptor PCB_Mechanical_6.gbr]
+   Generated File[Adaptor PCB_Profile.gbr]
+   Generated File[Adaptor PCB_NPTH_Drill.gbr]
+   Generated File[Adaptor PCB_PTH_Drill.gbr]
+   Generated File[Adaptor PCB_Drawing_1.gbr]
+   Generated File[Adaptor PCB_Drillmap_1.gbr]
+   Generated File[Adaptor PCB.RUL]
+   Generated File[Adaptor PCB.EXTREP]
+   Generated File[Adaptor PCB.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 3:54:09 PM On 5/04/2018

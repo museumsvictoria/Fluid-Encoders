@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint1@db15-e-1@130817_2-User Library-fod-assy_asm:CPoint1@db15-e-2@130817_2-User Library-fod-assy_asm'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='Con1'/>
+            <ToComponentRef value='Con2'/>
+            <Length value='1.000000'/>
+            <AdditionalLength value='1.020000'/>
+            <FromLocation value='-0.279031,0.119285,-0.189802'/>
+            <ToLocation value='-0.337173,0.138216,-0.225122'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

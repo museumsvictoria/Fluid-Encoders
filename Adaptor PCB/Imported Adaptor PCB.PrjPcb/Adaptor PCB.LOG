@@ -1,0 +1,53 @@
+Importer Log Report
+Project : Adaptor PCB.PrjPcb
+
+Section : Analyze Document - C:\Users\PC\Dropbox\Snepo FabLab Projects\scienceworks\Sci Works Encoder Adaptor PCB v1.0\Adaptor PCB.brd
+    Analyzing data of C:\Users\PC\Dropbox\Snepo FabLab Projects\scienceworks\Sci Works Encoder Adaptor PCB v1.0\Adaptor PCB.brd
+    Load settings
+    Load layers 62
+    Load Library "con-molex"
+    Load Packages 1
+    Load Library "con-kycon"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "holes"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+EndSection
+
+Section : Analyze Document - C:\Users\PC\Dropbox\Snepo FabLab Projects\scienceworks\Sci Works Encoder Adaptor PCB v1.0\Adaptor PCB.sch
+    Analyzing data of C:\Users\PC\Dropbox\Snepo FabLab Projects\scienceworks\Sci Works Encoder Adaptor PCB v1.0\Adaptor PCB.sch
+    Load settings
+    Load layers 62
+    Load schematic
+    Load Libraries 3
+    Load Library "con-molex"
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "con-kycon"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "holes"
+    Load Packages 10
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 6
+    Load Sheets 1
+EndSection
